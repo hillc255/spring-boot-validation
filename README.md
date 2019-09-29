@@ -6,7 +6,6 @@ Spring Boot validation and template with a form   - Udacity Java Nanodegree.
     https://start.spring.io/
     Spring Boot2.1.8.RELEASE
     Spring Web
-    WebSocket
     Thymeleaf
     DevTool
     Maven
@@ -16,15 +15,9 @@ Spring Boot validation and template with a form   - Udacity Java Nanodegree.
  
     mvn spring-boot:run 
     
- ## In browser  
-   
-   [browser 1] http://localhost:8080 </br>
-   [browser 2] http://localhost:8080 </br>
-   
- ## Result 
+ ## In browser - Result
  
-    Start each websocket in the 2 browsers
-    Scheduler will begin
-    Add a name and submit
-    Name will appear in each browser
+     localhost:8080/add
+     Result:  Add User form (username, password, grade, email)
+ 
 
