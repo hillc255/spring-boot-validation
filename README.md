@@ -18,6 +18,6 @@ Spring Boot validation and template with a form   - Udacity Java Nanodegree.
  ## In browser - Result
  
      localhost:8080/add
-     Result:  Add User form (username, password, grade, email)
+     Result:  Add user form (username, password, grade, email) with validation
  
 
